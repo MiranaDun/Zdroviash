@@ -1,0 +1,129 @@
+{
+  "project_info": {
+    "project_number": "453045782070",
+    "project_id": "minsport-8e02f",
+    "storage_bucket": "minsport-8e02f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453045782070:android:80526e96e8b001eaaf3a97",
+        "android_client_info": {
+          "package_name": "com.SoT.MinSport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453045782070-g9pliojiqpq59cfv3v5fn5dmm3cf8a11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.SoT.MinSport",
+            "certificate_hash": "c03bd9627b8284ddf5902698a667db88f8b6a4ab"
+          }
+        },
+        {
+          "client_id": "453045782070-h4q2he09pcqrosqcu21ur5v2k320bdca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.SoT.MinSport",
+            "certificate_hash": "652323747a2e7ee4b87d60b6f3492493a2ba09bc"
+          }
+        },
+        {
+          "client_id": "453045782070-u15j7ntf1pl96m1l19j1u2n09al0b41a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcqjOYiv05FUWZFMUc2OOrLxLfSYsaABw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453045782070-u15j7ntf1pl96m1l19j1u2n09al0b41a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453045782070:android:98c07308d856dcd5af3a97",
+        "android_client_info": {
+          "package_name": "com.example.minsport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453045782070-gckgiof5h14hb568mak3hdprjva1smsj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.minsport",
+            "certificate_hash": "c03bd9627b8284ddf5902698a667db88f8b6a4ab"
+          }
+        },
+        {
+          "client_id": "453045782070-hg97jq8f71528u140l2lgj7aabql7m41.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.minsport",
+            "certificate_hash": "652323747a2e7ee4b87d60b6f3492493a2ba09bc"
+          }
+        },
+        {
+          "client_id": "453045782070-u15j7ntf1pl96m1l19j1u2n09al0b41a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcqjOYiv05FUWZFMUc2OOrLxLfSYsaABw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453045782070-u15j7ntf1pl96m1l19j1u2n09al0b41a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453045782070:android:e5c5a66f8956de33af3a97",
+        "android_client_info": {
+          "package_name": "com.example.tehnostrelka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453045782070-u15j7ntf1pl96m1l19j1u2n09al0b41a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcqjOYiv05FUWZFMUc2OOrLxLfSYsaABw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453045782070-u15j7ntf1pl96m1l19j1u2n09al0b41a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
